@@ -2,10 +2,10 @@
 
 <div>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact" />
+  <img align="center" src="https://github-readme-stats-sandy-five.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonrgoodman&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green" />
 </a>
 
 <!--
@@ -13,13 +13,13 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on *SQL PRACTICES!*
-- 🌱 I’m currently learning *SERVER-SIDE DEVELOPMENT*
-- 👯 I’m looking to collaborate on *WILD PROJECTS*
-- 🤔 I’m looking for help with *BEING MY BEST*
-- 💬 Ask me about *TEAM BUILDING*
-- 📫 How to reach me: *jacksonrgoodman@gmail.com*
-- 😄 Pronouns: *He/Him*
+## - 🔭 I’m currently working on *SQL PRACTICES!*
+## - 🌱 I’m currently learning *SERVER-SIDE DEVELOPMENT*
+## - 👯 I’m looking to collaborate on *WILD PROJECTS*
+## - 🤔 I’m looking for help with *BEING MY BEST*
+## - 💬 Ask me about *TEAM BUILDING*
+## - 📫 How to reach me: *jacksonrgoodman@gmail.com*
+## - 😄 Pronouns: *He/Him*
 
 [linktr.ee/jacksonrgoodman](https://linktr.ee/jacksonrgoodman)
 
