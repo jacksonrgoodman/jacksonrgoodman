@@ -1,4 +1,4 @@
-### HELLO :D 👋
+### [HELLO :D 👋](https://linktr.ee/jacksonrgoodman)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jacksonrgoodman&theme=blue-green)
 [![Jackson's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: *jacksonrgoodman@gmail.com*
 - 😄 Pronouns: *He/Him*
 
-https://linktr.ee/jacksonrgoodman
+[linktr.ee/jacksonrgoodman](https://linktr.ee/jacksonrgoodman)
+
+<a href="https://linktr.ee/jacksonrgoodman" target="_blank">linktr.ee/jacksonrgoodman</a>
 
