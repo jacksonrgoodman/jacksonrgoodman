@@ -1,5 +1,5 @@
 # [Hey There!](https://jacksonrgoodman.github.io)
-
+# Check Out My [linktr.ee/jacksonrgoodman](https://linktr.ee/jacksonrgoodman)
 <div>
 <a>
   <img align="center" src="https://github-readme-stats-sandy-five.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact" />
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ## - 📫 How to reach me: *jacksonrgoodman@gmail.com*
 ## - 😄 Pronouns: *He/Him*
 
-[linktr.ee/jacksonrgoodman](https://linktr.ee/jacksonrgoodman)
+
 
 </div>
