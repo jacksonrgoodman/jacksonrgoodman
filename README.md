@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">  🔭 I’m currently working on: <em>SQL PRACTICE PROBLEMS</em> & <em>DIGITAL PROMOTION</em> </h3>
+<h3 style="..." align="center">  🔭 I’m currently working on: <em>SQL PRACTICE PROBLEMS</em> & <em>DIGITAL PROMOTION</em> </h3>
 <h3 align="center">  🌱 I’m currently learning: <em>BACK-END WEB DEVELOPMENT</em> <br/>@ <a href="https://nashvillesoftwareschool.com/"><em>NASHVILLE SOFTWARE SCHOOL</em></a></h3>
 <h3 align="center">  💬 Ask me about: <em>SMALL TALK WITH A.I.</em> </h3>
 <h3 align="center">  😄 Pronouns: <em>He/Him</em> </h3>
