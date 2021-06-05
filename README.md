@@ -3,10 +3,6 @@
 <div>
 <p align="center"><a href="https://www.linkedin.com/in/jacksonrgoodman/"><img src="https://img.shields.io/badge/-Linked%20In-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" /></a> <a href="mailto:jacksonrgoodman@gmail.com"><img src="https://img.shields.io/badge/-jacksonrgoodman@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a> <a href="https://dev.to/jacksonrgoodman/"><img src="https://img.shields.io/badge/-Jackson%20Goodman%20@%20DEV.to-%23323330.svg?style=flat&logo=dev-dot-to&logoColor=white" /></a> 
 </a>
-        
-  
-<!--[![Linkedin Badge](https://img.shields.io/badge/-Jackson-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksonrgoodman/)
-[![Mail Badge](https://img.shields.io/badge/-jacksonrgoodman@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jacksonrgoodman@gmail.com) -->
 
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20premiere%20-%231572B6.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
@@ -26,10 +22,11 @@
 
 Here are some ideas to get you started:
 -->
-<h2>  😄 Pronouns: *He/Him* </h2>
-<h2>  🔭 I’m currently working on *SQL PRACTICES!* </h2>
-<h2>  🌱 I’m currently learning *BACK END DEVELOPMENT* </h2>
-<h2>  💬 Ask me about *TEAMBUILDING* </h2>
+
+<h2 align="center">  😄 Pronouns: *He/Him* </h2>
+<h2 align="center">  🔭 I’m currently working on *SQL PRACTICES!* </h2>
+<h2 align="center">  🌱 I’m currently learning *BACK END DEVELOPMENT* </h2>
+<h2 align="center">  💬 Ask me about *TEAMBUILDING* </h2>
 
 
 </div>
