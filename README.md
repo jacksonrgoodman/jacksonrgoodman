@@ -10,7 +10,7 @@ My name is Jackson!<br/>Nashville🎸/ TN❤/ US🦅<br/><br/>
 🌱 I’m currently learning: <a href= "https://nashvillesoftwareschool.com/programs/full-time-bootcamps/"><em>Back-End Web Development</em></a> @ <br/><a href="https://nashvillesoftwareschool.com/">
 <img src = "https://img.shields.io/badge/NASHVILLE_SOFTWARE_SCHOOL%20-ef5236?&style=for-the-badge&logo=circle&logoColor=white" width=600/></a>
 
-<br/><br/>
+<br/>
 Check Out My
 <a href="https://www.linktr.ee/jacksonrgoodman">
 <br/>
