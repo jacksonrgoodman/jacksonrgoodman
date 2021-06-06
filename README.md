@@ -3,11 +3,10 @@
 <div align = "center">
 <h1 align = "center">
 <a align = "center" href="https://jacksonrgoodman.github.io">
-Hey!
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+Hey!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 </a>
 <br/>
-My name is Jackson!<br/> I am a student learning as much as I can!<br/>❤Nashville ~ TN🎸
+My name is Jackson!<br/> I am a student learning as much as I can!<br/>Nashville🎸/ TN❤/ US🦅
 <br/><br/>
 Check Out My
 <a href="https://www.linktr.ee/jacksonrgoodman">
@@ -69,7 +68,7 @@ Check Out My
 <!-- Github Stats -->
 <div align= "center">
 <a>	
-<img align= "center" src="https://github-profile-trophy.vercel.app/?username=jacksonrgoodman&row=2&column=2&theme=radical" />
+<img align= "center" src="https://github-profile-trophy.vercel.app/?username=jacksonrgoodman&row=2&column=3&theme=radical" />
 </a>
 <br/>
 <a>
