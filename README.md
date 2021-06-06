@@ -48,13 +48,20 @@ Check Out My
  🖥 What I'm Running:
 <br/><br/>
 <div>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt = "WINDOWS"/> 
-<img src="https://img.shields.io/badge/-i9_9900k-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt = "INTEL"/> 
-<img src="https://img.shields.io/badge/GTX_-1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt = "NVIDIA"/>
-<img src="https://img.shields.io/badge/-Vengeance_PRO_32GB_DDR4-E9E600?style=for-the-badge&logo=corsair&logoColor=black" alt = "RAM"/>
-<img src="https://img.shields.io/badge/ROG-MAXIMUS_XI_HERO-A81D33?style=for-the-badge&logo=asus&logoColor=white" alt = "MOTHERBOARD"/>
-<img src="https://img.shields.io/badge/2X-BARRACUDA_2TB-darkgreen?style=for-the-badge&logo=seagate&logoColor=white" alt = "MEMORY"/>
-<img src="https://img.shields.io/badge/-QUEST_1-purple?style=for-the-badge&logo=oculus&logoColor=white" alt = "MEMORY"/>
+<a href="https://www.youtube.com/watch?v=YhusJgJw6LA&ab_channel=AldoComputersAldoComputers">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt = "WINDOWS"/></a> 
+<a href="https://ark.intel.com/content/www/us/en/ark/products/186605/intel-core-i9-9900k-processor-16m-cache-up-to-5-00-ghz.html">
+<img src="https://img.shields.io/badge/-i9_9900k-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt = "INTEL"/></a> 
+<a href="https://www.youtube.com/watch?v=1NCdGIOFwJE">
+<img src="https://img.shields.io/badge/GTX_-1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt = "NVIDIA"/></a>
+<a href="https://www.youtube.com/watch?v=nujuAnZ9K50&ab_channel=TechnologyMoveTechnologyMove">
+<img src="https://img.shields.io/badge/-Vengeance_PRO_32GB_DDR4-E9E600?style=for-the-badge&logo=corsair&logoColor=black" alt = "RAM"/></a>
+<a href="https://www.youtube.com/watch?v=pS06kZqmjz8&ab_channel=Kathleen%27sProductReviews">
+<img src="https://img.shields.io/badge/ROG-MAXIMUS_XI_HERO-A81D33?style=for-the-badge&logo=asus&logoColor=white" alt = "MOTHERBOARD"/></a>
+<a href="https://www.seagate.com/www-content/datasheets/pdfs/3-5-barracudaDS1900-14-2007US-en_US.pdf">
+<img src="https://img.shields.io/badge/2X-BARRACUDA_2TB-darkgreen?style=for-the-badge&logo=seagate&logoColor=white" alt = "MEMORY"/></a>
+<a href="https://www.lambda1vr.com/">
+<img src="https://img.shields.io/badge/-QUEST_1-purple?style=for-the-badge&logo=oculus&logoColor=white" alt = "MEMORY"/></a>
 </div>
 <br/><br/>
  💬 Ask Me About: <br/><br/>
