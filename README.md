@@ -95,15 +95,15 @@ Check Out My
 </h1> 
 <!-- Github Stats -->
 <div align= "center">
-<a>	
+<a href = "https://github.com/ryo-ma/github-profile-trophy">	
 <img align= "center" src="https://github-profile-trophy.vercel.app/?username=jacksonrgoodman&row=2&column=3&theme=radical" />
 </a>
 <br/>
-<a>
+<a href = "https://github.com/anuraghazra/github-readme-stats">
 <img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact" />
 </a>
 <br/>
-<a>
+<a href = "https://github.com/anuraghazra/github-readme-stats">
 <img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green" />
 </a>
 </div>
