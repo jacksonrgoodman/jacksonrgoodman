@@ -22,7 +22,7 @@ Check Out My
 </h1>
 </div>
 <h1 style="..." align="center">
- 🔭 My Technology Stack:
+ 🔭 My Languages & Tools:
 <br/><br/>
 <p align="center">
 <a href="https://www.codecademy.com/learn/learn-html">
