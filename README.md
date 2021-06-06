@@ -23,7 +23,7 @@ Check Out My
 </h1>
 </div>
 <h1 style="..." align="center">
- 🔭 Technology Stack:
+ 🔭 My Technology Stack:
 <br/><br/>
 <p align="center">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -48,7 +48,7 @@ Check Out My
 <img src="https://img.shields.io/badge/-QUEST_1-purple?style=for-the-badge&logo=oculus&logoColor=white" alt = "MEMORY"/>
 </div>
 <br/><br/>
- 💬 I Love Talking About: <br/><br/>
+ 💬 Ask Me About: <br/><br/>
 <div>
 <p align="center">
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"alt="PHOTOSHOP" /> 
