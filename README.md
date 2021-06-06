@@ -1,7 +1,7 @@
 <!-- 🚀Jackson Goodman's Github Profile Readme!🚀 -->
 <header>
 <div align = "center">
-<h1 align = "center">
+<h2 align = "center">
 <a align = "center" href="https://jacksonrgoodman.github.io">
 Hey!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></a>
 <br/>
@@ -15,13 +15,15 @@ Check Out My
 <br/>
 <img src = "https://img.shields.io/badge/LINKTR.EE/%20-darkgreen?&style=for-the-badge&logo=linktree&logoColor=white" width=450/>
 </a>
+<!-- Generic Social Buttons
 <p align="center">
 <a href="https://www.linkedin.com/in/jacksonrgoodman/"><img align= "center" src="https://img.shields.io/badge/-Linked%20In-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jacksonrgoodman@gmail.com"><img align= "center" src="https://img.shields.io/badge/-jacksonrgoodman@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a> 
 <a href="https://dev.to/jacksonrgoodman/"><img align= "center" src="https://img.shields.io/badge/-DEV.TO%20%20-%23323330.svg?style=flat&logo=dev-dot-to&logoColor=white" /></a>
-</h1>
+-->
+</h2>
 </div>
-<h1 style="..." align="center">
+<h2 style="..." align="center">
  🔭 My Languages & Tools:
 <br/><br/>
 <p align="center">
@@ -66,7 +68,6 @@ Check Out My
  💬 Ask Me About: <br/><br/>
 <div>
 <p align="center">
-
 <a href="https://www.makeuseof.com/tag/switch-photoshop-gimp/">
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"alt="PHOTOSHOP" /></a>
 <a href="https://www.gimp.org/tutorials/Automate_Editing_in_GIMP/">
@@ -87,11 +88,10 @@ Check Out My
 <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=Steam&logoColor=white" alt = "STEAM" /></a>
 <a href="mailto:jacksonrgoodman@gmail.com">
 <img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "STEAM" /></a>
-
 </div>
 <br/>
 </div>
-</h1> 
+</h2> 
 <!-- Github Stats -->
 <div align= "center">
 <a href = "https://github.com/ryo-ma/github-profile-trophy">	
