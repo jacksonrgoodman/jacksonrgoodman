@@ -86,10 +86,12 @@ Check Out My
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt = "UNITY" /></a>
 <a href="https://brave.com/features/">
 <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt = "BRAVE" /></a>
+<!-- Steam
 <a href="https://steamcommunity.com/id/spiderzumbie/">
-<img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=Steam&logoColor=white" alt = "STEAM" /></a>
+<img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=Steam&logoColor=white" alt = "STEAM" /></a> -->
+<!-- Battle.Net
 <a href="mailto:jacksonrgoodman@gmail.com">
-<img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "STEAM" /></a>
+<img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "BATTLE.NET" /></a> -->
 <a href="https://www.youtube.com/watch?v=42HKCFf5Lf4&ab_channel=GDQuest">
 <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/></a>
 </div>
