@@ -20,7 +20,7 @@ Check Out My
 </div>
 	
 <h1 style="..." align="center">
-	I am a student learning as much as I can!
+	I am a student learning as much as I can!<br/>
 🌱 I’m currently learning: <a href= "https://nashvillesoftwareschool.com/programs/full-time-bootcamps/"><em>BACK-END WEB DEVELOPMENT</em></a> @ <br/><br/><a href="https://nashvillesoftwareschool.com/">
 <img src = "https://img.shields.io/badge/NASHVILLE_SOFTWARE_SCHOOL%20-ef5236?&style=for-the-badge&logo=circle&logoColor=white" width=600/></a>
  <br/><br/>
