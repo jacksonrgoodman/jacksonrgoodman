@@ -37,6 +37,8 @@ Check Out My
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="https://reactjs.org/docs/hello-world.html">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> 
+<a href = "https://www.toptal.com/designers/ui/figma-design-tool">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 <a href="https://github.com/%CF%80">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework">
