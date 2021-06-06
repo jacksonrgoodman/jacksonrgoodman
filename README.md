@@ -79,7 +79,7 @@ Check Out My
 <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt = "BRAVE" /></a>
 <a href="https://steamcommunity.com/id/spiderzumbie/">
 <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=Steam&logoColor=white" alt = "STEAM" /></a>
-<a href="mailto:jacksonrgoodman@gmail.com&subject=Battle.Net%20Friend&body=Hey!-Do-you-want-to-be-friends-with-me-on-Battle.net?">
+<a href="mailto:jacksonrgoodman@gmail.com&subject=Battle.Net Friends&body=Hey!-Do-you-want-to-be-friends-with-me-on-Battle.net?">
 <img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "STEAM" /></a>
 
 </div>
