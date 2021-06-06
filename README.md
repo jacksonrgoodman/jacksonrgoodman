@@ -60,16 +60,28 @@ Check Out My
  💬 Ask Me About: <br/><br/>
 <div>
 <p align="center">
-<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"alt="PHOTOSHOP" /> 
-<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
-<img src="https://img.shields.io/badge/adobe%20premiere%20Pro-%23663399.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="PREMIERE" /> 
-<img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt = "RESPBERRY PI" /><br/> 
-<img src="https://img.shields.io/badge/-RetroArch-000000?style=for-the-badge&logo=retroarch&logoColor=white" alt = "RETROPIE" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt = "DEBIAN" />
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt = "UNITY" /> 
-<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt = "BRAVE" />
-<img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=Steam&logoColor=white" alt = "STEAM" />
-<img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "STEAM" />
+
+<a href="https://www.makeuseof.com/tag/switch-photoshop-gimp/">
+<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"alt="PHOTOSHOP" /></a>
+<a href="https://www.gimp.org/tutorials/Automate_Editing_in_GIMP/">
+<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" /></a>
+<a href="https://tilldaling.medium.com/four-reasons-to-switch-from-premiere-pro-to-davinci-resolve-6d970823770c">
+<img src="https://img.shields.io/badge/adobe%20premiere%20Pro-%23663399.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="PREMIERE" /></a>
+<a href="https://datasheets.raspberrypi.org/cm4/cm4-datasheet.pdf">
+<img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt = "RESPBERRY PI" /><br/></a>
+<a href="http://buildbot.libretro.com/nightly/">
+<img src="https://img.shields.io/badge/-RetroArch-000000?style=for-the-badge&logo=retroarch&logoColor=white" alt = "RETROPIE" /></a>
+<a href="https://wiki.debian.org/RaspberryPiImages">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt = "DEBIAN" /></a>
+<a href="https://docs.unity3d.com/Manual/VROverview.html">
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt = "UNITY" /></a>
+<a href="https://brave.com/features/">
+<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt = "BRAVE" /></a>
+<a href="https://steamcommunity.com/id/spiderzumbie/">
+<img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=Steam&logoColor=white" alt = "STEAM" /></a>
+<a href="mailto:jacksonrgoodman@gmail.com&subject=Battle.Net%20Friend&body=Hey!-Do-you-want-to-be-friends-with-me-on-Battle.net?">
+<img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "STEAM" /></a>
+
 </div>
 <br/>
 </div>
