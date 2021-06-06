@@ -40,6 +40,7 @@ Check Out My
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt = "WINDOWS"/> 
 <img src="https://img.shields.io/badge/-i9_9900k-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt = "INTEL"/> 
 <img src="https://img.shields.io/badge/-1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt = "NVIDIA"/>
+<img src="https://img.shields.io/badge/-Vengeance_PRO_32GB_DDR4-E9E600?style=for-the-badge&logo=corsair&logoColor=black" alt = "NVIDIA"/>
 </div>
 <br/><br/>
  💬 Ask me about: <br/><br/>
