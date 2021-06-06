@@ -36,7 +36,7 @@ Check Out My
 <img src="https://img.shields.io/badge/C_SHARP-CC2927?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <br/><br/>
- 🖥 What's I'm Running:
+ 🖥 What I'm Running:
 <br/><br/>
 <div>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt = "WINDOWS"/> 
@@ -48,7 +48,7 @@ Check Out My
 <img src="https://img.shields.io/badge/-QUEST_1-purple?style=for-the-badge&logo=oculus&logoColor=white" alt = "MEMORY"/>
 </div>
 <br/><br/>
- 💬 Ask me about: <br/><br/>
+ 💬 I Love Talking About: <br/><br/>
 <div>
 <p align="center">
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"alt="PHOTOSHOP" /> 
