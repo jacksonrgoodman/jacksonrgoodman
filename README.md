@@ -33,6 +33,8 @@ Check Out My<br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" />
+<img src="https://img.shields.io/badge/C_SHARP-CC2927?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <br/><br/>
  🖥 What's Inside:
 <br/><br/>
@@ -41,7 +43,8 @@ Check Out My<br/>
 <img src="https://img.shields.io/badge/-i9_9900k-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt = "INTEL"/> 
 <img src="https://img.shields.io/badge/GTX_-1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt = "NVIDIA"/>
 <img src="https://img.shields.io/badge/-Vengeance_PRO_32GB_DDR4-E9E600?style=for-the-badge&logo=corsair&logoColor=black" alt = "RAM"/>
-<img src="https://img.shields.io/badge/ROG-MAXIMUS_XI_HERO-A81D33?style=for-the-badge&logo=asus&logoColor=white" alt = "RAM"/>
+<img src="https://img.shields.io/badge/ROG-MAXIMUS_XI_HERO-A81D33?style=for-the-badge&logo=asus&logoColor=white" alt = "MOTHERBOARD"/>
+<img src="https://img.shields.io/badge/2X-BARRACUDA_2TB-darkgreen?style=for-the-badge&logo=seagate&logoColor=white" alt = "MEMORY"/>
 </div>
 <br/><br/>
  💬 Ask me about: <br/><br/>
@@ -51,10 +54,12 @@ Check Out My<br/>
 <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
 <img src="https://img.shields.io/badge/adobe%20premiere%20Pro-%23663399.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="PREMIERE" /> 
 <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt = "RESPBERRY PI" /><br/> 
+<img src="https://img.shields.io/badge/-RetroArch-000000?style=for-the-badge&logo=retroarch&logoColor=white" alt = "RETROPIE" />
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt = "DEBIAN" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt = "UNITY" /> 
 <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt = "BRAVE" />
 <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=Steam&logoColor=white" alt = "STEAM" />
+<img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "STEAM" />
 </div>
  <br/>
  
