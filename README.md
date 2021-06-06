@@ -108,10 +108,11 @@ Check Out My
 </div>
 </header>
 <br/>
+<!-- README Joke
 <div>
 <p align = "center">
 <br/>
-<!-- README Joke -->
 <p align="center">
 <a href= "https://github.com/ABSphreak/readme-jokes"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme= "random" /></a>
 </div>
+-- >
