@@ -88,6 +88,8 @@ Check Out My
 <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=Steam&logoColor=white" alt = "STEAM" /></a>
 <a href="mailto:jacksonrgoodman@gmail.com">
 <img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "STEAM" /></a>
+<a href="https://www.youtube.com/watch?v=42HKCFf5Lf4&ab_channel=GDQuest">
+<img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/></a>
 </div>
 <br/>
 </div>
