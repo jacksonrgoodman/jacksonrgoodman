@@ -6,11 +6,10 @@
 Hey!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 </a>
 <br/>
-My name is Jackson!<br/>Nashville🎸/ TN❤/ US🦅<br/>
-<h1 style="..." align="center">
-🌱 I’m currently learning: <a href= "https://nashvillesoftwareschool.com/programs/full-time-bootcamps/"><em>Back-End Web Development</em></a> @ <br/><br/><a href="https://nashvillesoftwareschool.com/">
+My name is Jackson!<br/>Nashville🎸/ TN❤/ US🦅<br/><br/>
+🌱 I’m currently learning: <a href= "https://nashvillesoftwareschool.com/programs/full-time-bootcamps/"><em>Back-End Web Development</em></a> @ <br/><a href="https://nashvillesoftwareschool.com/">
 <img src = "https://img.shields.io/badge/NASHVILLE_SOFTWARE_SCHOOL%20-ef5236?&style=for-the-badge&logo=circle&logoColor=white" width=600/></a>
- </h1>
+
 <br/><br/>
 Check Out My
 <a href="https://www.linktr.ee/jacksonrgoodman">
