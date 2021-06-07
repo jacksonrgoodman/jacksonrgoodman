@@ -100,17 +100,20 @@ Check Out My
 </h2> 
 <!-- Github Stats -->
 <div align= "center">
+<a href = "https://github.com/anuraghazra/github-readme-stats">
+<img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green" />
+</a>
+<!-- Github Stats -->
+<br/>
 <a href = "https://github.com/ryo-ma/github-profile-trophy">	
 <img align= "center" src="https://github-profile-trophy.vercel.app/?username=jacksonrgoodman&row=1&column=4&theme=radical" />
 </a>
+<!-- Github Trophy -->
 <br/>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
 <img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact" />
 </a>
-<br/>
-<a href = "https://github.com/anuraghazra/github-readme-stats">
-<img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green" />
-</a>
+<!-- CLOSING TAGS --> 
 </div>
 </header>
 <br/>
