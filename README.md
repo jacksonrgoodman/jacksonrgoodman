@@ -101,7 +101,7 @@ Check Out My
 <!-- Github Stats -->
 <div align= "center">
 <a href = "https://github.com/ryo-ma/github-profile-trophy">	
-<img align= "center" src="https://github-profile-trophy.vercel.app/?username=jacksonrgoodman&row=2&column=3&theme=radical" />
+<img align= "center" src="https://github-profile-trophy.vercel.app/?username=jacksonrgoodman&row=1&column=4&theme=radical" />
 </a>
 <br/>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
