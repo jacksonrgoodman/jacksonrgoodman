@@ -4,7 +4,7 @@
 <a align = "center" href="https://jacksonrgoodman.github.io">
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hey!</a>
 <br/>
-My name is Jackson!<br/>My Job Is To Help & Learn & Code!<br/> Nashville🎸/ TN❤<br/><br/>
+My name is Jackson!<br/>My Job Is To Learn, Help & Code!<br/> Nashville🎸/ TN❤<br/><br/>
 🌱 I’m currently learning: <a href= "https://nashvillesoftwareschool.com/programs/full-time-bootcamps/"><em>Back-End Web Development</em></a> @ <br/><a href="https://nashvillesoftwareschool.com/">
 <img src = "https://img.shields.io/badge/NASHVILLE_SOFTWARE_SCHOOL%20-ef5236?&style=for-the-badge&logo=circle&logoColor=white" width=600/></a>
 
