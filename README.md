@@ -1,7 +1,7 @@
 <!-- 🚀Jackson Goodman's Github Profile Readme!🚀 -->
 <header>
 <div align = "center">
-<h3 align = "center">
+<h1 align = "center">
 <a align = "center" href="https://jacksonrgoodman.github.io">
 Hey!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></a>
 <br/>
@@ -9,7 +9,7 @@ My name is Jackson!<br/>Nashville🎸/ TN❤<br/><br/>
 🌱 I’m currently learning: <a href= "https://nashvillesoftwareschool.com/programs/full-time-bootcamps/"><em>Back-End Web Development</em></a> @ <br/><a href="https://nashvillesoftwareschool.com/">
 <img src = "https://img.shields.io/badge/NASHVILLE_SOFTWARE_SCHOOL%20-ef5236?&style=for-the-badge&logo=circle&logoColor=white" width=600/></a>
 
-<br/>
+<br/><br/>
 Check Out My
 <a href="https://www.linktr.ee/jacksonrgoodman">
 <br/>
@@ -21,11 +21,11 @@ Check Out My
 <a href="mailto:jacksonrgoodman@gmail.com"><img align= "center" src="https://img.shields.io/badge/-jacksonrgoodman@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a> 
 <a href="https://dev.to/jacksonrgoodman/"><img align= "center" src="https://img.shields.io/badge/-DEV.TO%20%20-%23323330.svg?style=flat&logo=dev-dot-to&logoColor=white" /></a>
 -->
-</h3>
+</h1>
 </div>
 <h3 style="..." align="center">
  🔭 My Languages & Tools:
-<br/><br/>
+<br/>
 <p align="center">
 <a href="https://www.codecademy.com/learn/learn-html">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -49,8 +49,7 @@ Check Out My
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
 <br/><br/>
  🖥 What I'm Running:
-<br/><br/>
-<div>
+<br/>
 <a href="https://www.youtube.com/watch?v=YhusJgJw6LA&ab_channel=AldoComputersAldoComputers">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt = "WINDOWS"/></a> 
 <a href="https://ark.intel.com/content/www/us/en/ark/products/186605/intel-core-i9-9900k-processor-16m-cache-up-to-5-00-ghz.html">
@@ -65,11 +64,9 @@ Check Out My
 <img src="https://img.shields.io/badge/2X-BARRACUDA_2TB-darkgreen?style=for-the-badge&logo=seagate&logoColor=white" alt = "MEMORY"/></a>
 <a href="https://www.lambda1vr.com/">
 <img src="https://img.shields.io/badge/-QUEST_1-purple?style=for-the-badge&logo=oculus&logoColor=white" alt = "MEMORY"/></a>
-</div>
 <br/><br/>
- 💬 Ask Me About: <br/><br/>
-<div>
-<p align="center">
+ 💬 Ask Me About: 
+<br/>
 <a href="https://www.makeuseof.com/tag/switch-photoshop-gimp/">
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"alt="PHOTOSHOP" /></a>
 <a href="https://www.gimp.org/tutorials/Automate_Editing_in_GIMP/">
@@ -94,7 +91,6 @@ Check Out My
 <img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "BATTLE.NET" /></a> -->
 <a href="https://www.youtube.com/watch?v=42HKCFf5Lf4&ab_channel=GDQuest">
 <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/></a>
-</div>
 <br/>
 </div>
 </h3> 
