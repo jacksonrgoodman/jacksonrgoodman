@@ -1,7 +1,7 @@
 <!-- 🚀Jackson Goodman's Github Profile Readme!🚀 -->
 <header>
 <div align = "center">
-<h2 align = "center">
+<h3 align = "center">
 <a align = "center" href="https://jacksonrgoodman.github.io">
 Hey!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></a>
 <br/>
@@ -21,9 +21,9 @@ Check Out My
 <a href="mailto:jacksonrgoodman@gmail.com"><img align= "center" src="https://img.shields.io/badge/-jacksonrgoodman@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a> 
 <a href="https://dev.to/jacksonrgoodman/"><img align= "center" src="https://img.shields.io/badge/-DEV.TO%20%20-%23323330.svg?style=flat&logo=dev-dot-to&logoColor=white" /></a>
 -->
-</h2>
+</h3>
 </div>
-<h2 style="..." align="center">
+<h3 style="..." align="center">
  🔭 My Languages & Tools:
 <br/><br/>
 <p align="center">
@@ -97,7 +97,7 @@ Check Out My
 </div>
 <br/>
 </div>
-</h2> 
+</h3> 
 <!-- Github Stats -->
 <div align= "center">
 <a href = "https://github.com/anuraghazra/github-readme-stats">
