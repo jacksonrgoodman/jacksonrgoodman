@@ -1,11 +1,10 @@
 <!-- 🚀Jackson Goodman's Github Profile Readme!🚀 -->
 <header>
-<div align = "center">
 <h1 align = "center">
 <a align = "center" href="https://jacksonrgoodman.github.io">
-Hey!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></a>
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hey!</a>
 <br/>
-My name is Jackson!<br/>Nashville🎸/ TN❤<br/><br/>
+My name is Jackson!<br/>My Job Is To Help & Learn & Code!<br/> Nashville🎸/ TN❤<br/><br/>
 🌱 I’m currently learning: <a href= "https://nashvillesoftwareschool.com/programs/full-time-bootcamps/"><em>Back-End Web Development</em></a> @ <br/><a href="https://nashvillesoftwareschool.com/">
 <img src = "https://img.shields.io/badge/NASHVILLE_SOFTWARE_SCHOOL%20-ef5236?&style=for-the-badge&logo=circle&logoColor=white" width=600/></a>
 
@@ -22,7 +21,8 @@ Check Out My
 <a href="https://dev.to/jacksonrgoodman/"><img align= "center" src="https://img.shields.io/badge/-DEV.TO%20%20-%23323330.svg?style=flat&logo=dev-dot-to&logoColor=white" /></a>
 -->
 </h1>
-</div>
+</header>
+<main>
 <h3 style="..." align="center">
  🔭 My Languages & Tools:
 <br/>
@@ -91,9 +91,11 @@ Check Out My
 <img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "BATTLE.NET" /></a> -->
 <a href="https://www.youtube.com/watch?v=42HKCFf5Lf4&ab_channel=GDQuest">
 <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/></a>
-<br/>
-</div>
 </h3> 
+<h1 align="center" ></h1>
+</main>
+<br/>
+<footer align= "center">
 <!-- Github Stats -->
 <div align= "center">
 <a href = "https://github.com/anuraghazra/github-readme-stats">
@@ -109,10 +111,8 @@ Check Out My
 <a href = "https://github.com/anuraghazra/github-readme-stats">
 <img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact" />
 </a>
-<!-- CLOSING TAGS --> 
 </div>
-</header>
-<br/>
+</footer>
 <!-- README Joke
 <div>
 <p align = "center">
