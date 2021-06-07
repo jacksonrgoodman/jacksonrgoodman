@@ -44,7 +44,7 @@ Check Out My
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /></a>
 <a href="https://www.guru99.com/c-sharp-tutorial.html">
-<img src="https://img.shields.io/badge/C_SHARP-CC2927?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/c%23-23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <a href="https://www.codecademy.com/catalog/language/sql">
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
 <br/><br/>
