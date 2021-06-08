@@ -47,6 +47,8 @@ Check Out My
 <img src="https://img.shields.io/badge/c%23-23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <a href="https://www.codecademy.com/catalog/language/sql">
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
+<a href= "https://warpedvisions.org/projects/markdown-cheat-sheet/">
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt= "MARKDOWN">
 <br/><br/>
  🖥 What I'm Running:
 <br/>
