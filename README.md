@@ -5,15 +5,18 @@
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hey!</a>
 <br/>
 My name is Jackson!<br/>My Job Is To Learn, Help & Code!<br/> Nashville🎸/ TN❤<br/><br/>
+<!-- Learning Skills
 🌱 I’m currently learning: <a href= "https://nashvillesoftwareschool.com/programs/full-time-bootcamps/"><em>Back-End Web Development</em></a> @ <br/><a href="https://nashvillesoftwareschool.com/">
 <img src = "https://img.shields.io/badge/NASHVILLE_SOFTWARE_SCHOOL%20-ef5236?&style=for-the-badge&logo=circle&logoColor=white" width=600/></a>
-
+-->
+<!-- Big Linktree Button
 <br/>
 Check Out My
 <a href="https://www.linktr.ee/jacksonrgoodman">
 <br/>
 <img src = "https://img.shields.io/badge/LINKTR.EE/%20-darkgreen?&style=for-the-badge&logo=linktree&logoColor=white" width=450/>
 </a>
+-->
 <!-- Generic Social Buttons
 <p align="center">
 <a href="https://www.linkedin.com/in/jacksonrgoodman/"><img align= "center" src="https://img.shields.io/badge/-Linked%20In-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" /></a>
@@ -25,7 +28,7 @@ Check Out My
 <main>
 <h3 style="..." align="center">
  🔭 My Languages & Tools:
-<br/>
+<br/><br/>
 <p align="center">
 <a href="https://www.codecademy.com/learn/learn-html">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -69,6 +72,7 @@ Check Out My
 <img src="https://img.shields.io/badge/-QUEST_1-purple?style=for-the-badge&logo=oculus&logoColor=white" alt = "MEMORY"/></a>
 <br/><br/>
 -->
+<!-- Fun Stuff
  💬 Ask Me About: 
 <br/>
 <a href="https://www.makeuseof.com/tag/switch-photoshop-gimp/">
@@ -92,13 +96,12 @@ Check Out My
 <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=Steam&logoColor=white" alt = "STEAM" /></a> -->
 <!-- Battle.Net
 <a href="mailto:jacksonrgoodman@gmail.com">
-<img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "BATTLE.NET" /></a> -->
+<img src="https://img.shields.io/badge/battle.net-darkblue?style=for-the-badge&logo=battle-dot-net&logoColor=white" alt = "BATTLE.NET" /></a> 
 <a href="https://www.youtube.com/watch?v=42HKCFf5Lf4&ab_channel=GDQuest">
 <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/></a>
-</h3> 
-<h1 align="center" ></h1>
+</h3>
+-->
 </main>
-<br/>
 <footer align= "center">
 <!-- Github Stats -->
 <div align= "center">
