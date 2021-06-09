@@ -30,26 +30,38 @@ Check Out My
  🔭 My Languages & Tools:
 <br/><br/>
 <p align="center">
+<!-- HTML5 -->
 <a href="https://www.codecademy.com/learn/learn-html">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+<!-- CSS -->
 <a href="https://www.codecademy.com/learn/learn-css">
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+<!-- Node.js
 <a href="https://nodejs.org/en/about/">
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node-dot-js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node-dot-js&logoColor=white" alt="NODE.JS"/></a>
+-->
+<!-- JS -->
 <a href="https://www.codecademy.com/catalog/language/javascript">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+<!-- React -->
 <a href="https://reactjs.org/docs/hello-world.html">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<!-- Figma -->
 <a href = "https://www.toptal.com/designers/ui/figma-design-tool">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<!-- Github -->
 <a href="https://github.com/%CF%80">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+<!-- .NET -->
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /></a>
+<!-- C# -->
 <a href="https://www.guru99.com/c-sharp-tutorial.html">
 <img src="https://img.shields.io/badge/c%23-23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+<!-- SQL -->
 <a href="https://www.codecademy.com/catalog/language/sql">
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
+<!-- Markdown -->
 <a href= "https://warpedvisions.org/projects/markdown-cheat-sheet/">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt= "MARKDOWN"></a>
 <br/><br/>
