@@ -2,7 +2,7 @@
 <header align = center>
 <h1 <header align = center>
 <a align = "center" href="https://jacksonrgoodman.github.io">
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="56px" alt="hi"><img src="https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=150&height=55&lines=Hey!" alt="Hey!" /></a>
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hey!<!--<img src="https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=150&height=55&lines=Hey!" alt="Hey!" />--></a>
 <br/>
  <!-- Title
 My name is Jackson!<br/>My Job Is To Learn, Help & Code!<br/> Nashville🎸/ TN❤<br/>
