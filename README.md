@@ -50,6 +50,7 @@ Check Out My
 <a href= "https://warpedvisions.org/projects/markdown-cheat-sheet/">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt= "MARKDOWN"></a>
 <br/><br/>
+<!-- COMPUTER STUFF
  🖥 What I'm Running:
 <br/>
 <a href="https://www.youtube.com/watch?v=YhusJgJw6LA&ab_channel=AldoComputersAldoComputers">
@@ -67,6 +68,7 @@ Check Out My
 <a href="https://www.lambda1vr.com/">
 <img src="https://img.shields.io/badge/-QUEST_1-purple?style=for-the-badge&logo=oculus&logoColor=white" alt = "MEMORY"/></a>
 <br/><br/>
+-->
  💬 Ask Me About: 
 <br/>
 <a href="https://www.makeuseof.com/tag/switch-photoshop-gimp/">
@@ -101,7 +103,7 @@ Check Out My
 <!-- Github Stats -->
 <div align= "center">
 <a href = "https://github.com/anuraghazra/github-readme-stats">
-<img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green" />
+<img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green&hide=issues,contribs&show_icons=true" />
 </a>
 <!-- Github Stats -->
 <br/>
