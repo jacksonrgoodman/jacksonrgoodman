@@ -59,7 +59,7 @@ Check Out My
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /></a>
 <!-- C# -->
 <a href="https://www.guru99.com/c-sharp-tutorial.html">
-<img src="https://img.shields.io/badge/c%23-23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/c%23-006400.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <!-- SQL -->
 <a href="https://www.codecademy.com/catalog/language/sql">
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
