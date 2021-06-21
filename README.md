@@ -122,12 +122,16 @@ Check Out My
 <a href = "https://github.com/anuraghazra/github-readme-stats">
 <img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green&hide=issues,contribs&show_icons=true" />
 </a>
-<!-- Github Stats -->
+<!-- Github Trophy -->
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api/wakatime?username=jacksonrgoodman&theme=blue-green&layout=compact" alt = "wakatime"/>
+</a>
+<!-- Github Trophy -->
 <br/>
 <a href = "https://github.com/ryo-ma/github-profile-trophy">	
 <img align= "center" src="https://github-profile-trophy.vercel.app/?username=jacksonrgoodman&row=1&column=4&theme=radical" />
 </a>
-<!-- Github Trophy -->
+<!-- Github Stats -->
 <br/>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
 <img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact" />
