@@ -32,6 +32,22 @@ Check Out My
  🔭 My Languages & Tools:
 <br/><br/>
 <p align="center">
+ <!-- C# -->
+<a href="https://www.guru99.com/c-sharp-tutorial.html">
+<img src="https://img.shields.io/badge/c%23-006400.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
+ <!-- SQL -->
+<a href="https://www.codecademy.com/catalog/language/sql">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" /></a>
+ <!-- Visual Studio -->
+<a href="https://www.youtube.com/watch?v=KMU0tzLwhbE&ab_channel=1doony4u">
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="NODE.JS"/></a>
+
+ <!-- .NET 
+<a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET" /></a> -->
+ <!-- JS -->
+<a href="https://www.codecademy.com/catalog/language/javascript">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" /></a>
 <!-- HTML5 -->
 <a href="https://www.codecademy.com/learn/learn-html">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
@@ -42,27 +58,15 @@ Check Out My
 <a href="https://nodejs.org/en/about/">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node-dot-js&logoColor=white" alt="NODE.JS"/></a>
 -->
-<!-- JS -->
-<a href="https://www.codecademy.com/catalog/language/javascript">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <!-- React -->
 <a href="https://reactjs.org/docs/hello-world.html">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
 <!-- Figma -->
 <a href = "https://www.toptal.com/designers/ui/figma-design-tool">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-<!-- Github -->
+<img src="https://img.shields.io/badge/Figma-FFFF00?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" /></a>
+<!-- Git 
 <a href="https://github.com/%CF%80">
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
-<!-- .NET -->
-<a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework">
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /></a>
-<!-- C# -->
-<a href="https://www.guru99.com/c-sharp-tutorial.html">
-<img src="https://img.shields.io/badge/c%23-006400.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
-<!-- SQL -->
-<a href="https://www.codecademy.com/catalog/language/sql">
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a> -->
 <!-- Markdown -->
 <a href= "https://warpedvisions.org/projects/markdown-cheat-sheet/">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt= "MARKDOWN"></a>
@@ -120,7 +124,7 @@ Check Out My
 <!-- Github Stats -->
 <div align= "center">
 <a href = "https://github.com/anuraghazra/github-readme-stats">
-<img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green&hide=issues,contribs&show_icons=true" />
+<img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green&hide=issues,contribs&show_icons=true&custom_title=Jackson's Github Stats&" />
 </a>
 <!-- Github Trophy -->
 <br/>
