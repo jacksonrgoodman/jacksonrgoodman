@@ -40,7 +40,7 @@ Check Out My
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" /></a>
  <!-- Visual Studio -->
 <a href="https://www.youtube.com/watch?v=KMU0tzLwhbE&ab_channel=1doony4u">
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="NODE.JS"/></a>
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS 2019"/></a>
 
  <!-- .NET 
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework">
