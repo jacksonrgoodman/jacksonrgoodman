@@ -100,7 +100,7 @@ Check Out My
 <a href="https://tilldaling.medium.com/four-reasons-to-switch-from-premiere-pro-to-davinci-resolve-6d970823770c">
 <img src="https://img.shields.io/badge/adobe%20premiere%20Pro-%23663399.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="PREMIERE" /></a>
 <a href="https://datasheets.raspberrypi.org/cm4/cm4-datasheet.pdf">
-<img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt = "RESPBERRY PI" /><br/></a>
+<img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt = "RASPBERRY PI" /><br/></a>
 <a href="http://buildbot.libretro.com/nightly/">
 <img src="https://img.shields.io/badge/-RetroArch-000000?style=for-the-badge&logo=retroarch&logoColor=white" alt = "RETROPIE" /></a>
 <a href="https://wiki.debian.org/RaspberryPiImages">
