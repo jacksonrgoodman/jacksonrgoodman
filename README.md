@@ -131,7 +131,7 @@ Check Out My
 </a>
 <!-- Github Trophy -->
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api/wakatime?username=jacksonrgoodman&theme=blue-green&custom_title=Time Spent Coding(Weekly)& alt = "wakatime"/>
+<a href="https://www.youtube.com/watch?v=jazcHIaitfE&ab_channel=BryanJenks"><img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api/wakatime?username=jacksonrgoodman&theme=blue-green&custom_title=Time Spent Coding(Weekly)& alt = "wakatime"/>
 </a>
 <!-- Github Trophy -->
 <br/>
