@@ -70,6 +70,9 @@ Check Out My
 <!-- Markdown -->
 <a href= "https://warpedvisions.org/projects/markdown-cheat-sheet/">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt= "MARKDOWN"></a>
+  <!-- Godot -->
+ <a href="https://www.youtube.com/watch?v=42HKCFf5Lf4&ab_channel=GDQuest">
+<img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23000000.svg?style=for-the-badge&logo=godot-engine"/></a>
 <br/><br/>
 <!-- COMPUTER STUFF
  🖥 What I'm Running:
