@@ -45,6 +45,9 @@ Check Out My
  <!-- .NET 
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET" /></a> -->
+ <!-- PYTHON -->
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
  <!-- JS -->
 <a href="https://www.codecademy.com/catalog/language/javascript">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" /></a>
