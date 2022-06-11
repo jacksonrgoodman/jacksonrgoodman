@@ -2,11 +2,10 @@
 <header align = center>
 <h1 <header align = center>
 <a align = "center" href="https://jacksonrgoodman.github.io">
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hey!<!--<img src="https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=150&height=55&lines=Hey!" alt="Hey!" />--></a>
+<!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hey!<img src="https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=150&height=55&lines=Hey!" alt="Hey!" />--></a>
 <br/>
- <!-- Title
+<!-- Title -->
 My name is Jackson!<br/>My Job Is To Learn, Help & Code!<br/> Nashville🎸/ TN❤<br/>
--->
 <!-- Learning Skills
 🌱 I’m currently learning: <a href= "https://nashvillesoftwareschool.com/programs/full-time-bootcamps/"><em>Back-End Web Development</em></a> @ <br/><a href="https://nashvillesoftwareschool.com/">
 <img src = "https://img.shields.io/badge/NASHVILLE_SOFTWARE_SCHOOL%20-ef5236?&style=for-the-badge&logo=circle&logoColor=white" width=600/></a>
