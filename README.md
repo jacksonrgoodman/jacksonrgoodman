@@ -2,7 +2,6 @@
 <header align = center>
 <h1 <header align = center>
 <a align = "center" href="https://jacksonrgoodman.github.io">
-<!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hey! -->
 <img src="https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=150&height=55&lines=Hey!" alt="Hey!" /></a>
 <br/>
 <!-- Title
@@ -39,8 +38,8 @@ Check Out My
 <a href="https://www.codecademy.com/catalog/language/sql">
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" /></a>
  <!-- Visual Studio -->
-<a href="https://www.youtube.com/watch?v=KMU0tzLwhbE&ab_channel=1doony4u">
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS 2019"/></a>
+<!-- <a href="https://www.youtube.com/watch?v=KMU0tzLwhbE&ab_channel=1doony4u">
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS 2019"/></a>-->
 
  <!-- .NET 
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework">
@@ -52,21 +51,21 @@ Check Out My
 <a href="https://www.codecademy.com/catalog/language/javascript">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" /></a>
 <!-- HTML5 -->
-<a href="https://www.codecademy.com/learn/learn-html">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+<!--<a href="https://www.codecademy.com/learn/learn-html">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>-->
 <!-- CSS -->
-<a href="https://www.codecademy.com/learn/learn-css">
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+<!--<a href="https://www.codecademy.com/learn/learn-css">
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>-->
 <!-- Node.js
 <a href="https://nodejs.org/en/about/">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node-dot-js&logoColor=white" alt="NODE.JS"/></a>
 -->
-<!-- React -->
-<a href="https://reactjs.org/docs/hello-world.html">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<!--<!-- React -->
+<!--<a href="https://reactjs.org/docs/hello-world.html">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>-->
 <!-- Figma -->
-<a href = "https://www.toptal.com/designers/ui/figma-design-tool">
-<img src="https://img.shields.io/badge/Figma-FFFF00?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" /></a>
+<!--<a href = "https://www.toptal.com/designers/ui/figma-design-tool">
+<img src="https://img.shields.io/badge/Figma-FFFF00?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" /></a>-->
 <!-- Git 
 <a href="https://github.com/%CF%80">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a> -->
