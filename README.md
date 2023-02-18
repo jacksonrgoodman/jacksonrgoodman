@@ -128,22 +128,21 @@ Check Out My
 <footer align= "center">
 <!-- Github Stats -->
 <div align= "center">
-<a href = "https://github.com/anuraghazra/github-readme-stats">
-<img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api?username=jacksonrgoodman&theme=blue-green&hide=issues,contribs&show_icons=true&custom_title=Jackson's Github Stats&" />
-</a>
+<!-- <a href = "https://github.com/anuraghazra/github-readme-stats">
+<img align= "center" src="https://github-readme-stats-jacksonrgoodman.vercel.app/api?username=jacksonrgoodman&theme=blue-green&hide=issues,contribs&show_icons=true&custom_title=Jackson's Github Stats&" />
+</a> -->
 <!-- Github Trophy -->
-<br/>
+<!-- <br/>
 <a href="https://www.youtube.com/watch?v=jazcHIaitfE&ab_channel=BryanJenks"><img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api/wakatime?username=jacksonrgoodman&theme=blue-green&custom_title=Time Spent Coding(Weekly)& alt = "wakatime"/>
-</a>
+</a> -->
 <!-- Github Trophy -->
-<br/>
 <a href = "https://github.com/ryo-ma/github-profile-trophy">	
 <img align= "center" src="https://github-profile-trophy.vercel.app/?username=jacksonrgoodman&row=1&column=4&theme=radical" />
 </a>
 <!-- Github Stats -->
 <br/>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
-<img align= "center" src="https://github-readme-stats-sandy-five.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact" />
+<img align= "center" src="https://github-readme-stats-jacksonrgoodman.vercel.app/api/top-langs/?username=jacksonrgoodman&theme=blue-green&exclude_repo=PoKi-Practice,jacksonrgoodman.github.io&layout=compact" />
 </a>
 </div>
 </footer>
