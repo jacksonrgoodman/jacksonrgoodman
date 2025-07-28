@@ -32,10 +32,10 @@ Check Out My
 <br/><br/>
 <p align="center">
  <!-- C# -->
-<a href="https://www.guru99.com/c-sharp-tutorial.html">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
 <img src="https://img.shields.io/badge/c%23-006400.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
  <!-- SQL -->
-<a href="https://www.codecademy.com/catalog/language/sql">
+<a href="https://docs.oracle.com/en/database/oracle/oracle-database/23/cncpt/sql.html#GUID-CBD8FE77-BA6F-4241-A71C-2ADDDF43EA7F">
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" /></a>
  <!-- Visual Studio -->
 <!-- <a href="https://www.youtube.com/watch?v=KMU0tzLwhbE&ab_channel=1doony4u">
@@ -48,7 +48,7 @@ Check Out My
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
  <!-- JS -->
-<a href="https://www.codecademy.com/catalog/language/javascript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" /></a>
 <!-- HTML5 -->
 <!--<a href="https://www.codecademy.com/learn/learn-html">
@@ -70,10 +70,10 @@ Check Out My
 <a href="https://github.com/%CF%80">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a> -->
 <!-- Markdown -->
-<a href= "https://warpedvisions.org/projects/markdown-cheat-sheet/">
+<a href= "https://www.markdownguide.org/">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt= "MARKDOWN"></a>
   <!-- Godot -->
- <a href="https://www.youtube.com/watch?v=42HKCFf5Lf4&ab_channel=GDQuest">
+ <a href="https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_basics.html">
 <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23000000.svg?style=for-the-badge&logo=godot-engine"/></a>
 <br/><br/>
 <!-- COMPUTER STUFF
